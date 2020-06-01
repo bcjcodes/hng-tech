@@ -1,0 +1,2 @@
+# hng-tech
+Hng repository
